@@ -3,5 +3,14 @@
     "apps": [
       "RNXPPZB225.net.st-ours.ArtRightHere.Clip"
     ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RNXPPZB225.net.st-ours.ArtRightHere",
+        "paths": ["*"]
+      }
+    ]
   }
 }
